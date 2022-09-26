@@ -11,3 +11,7 @@ Multisig wallet implemented with hash-maps and arrays.
 ## Next steps?
 * Optimise `removeOwner()` in both implementations
 * Use OZ [EnumerateSet.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/structs/EnumerableSet.sol) ─ I wanted to expiriment for myself being the prime optimizooor that I am.
+
+## Goerli Testnet
+* [MultiOwnerWithArray - 0x63e0F2A0359f38f37F9e54d26449EF2a6195873c](https://goerli.etherscan.io/address/0x63e0F2A0359f38f37F9e54d26449EF2a6195873c)
+* [MultiOwnerWithHashmap - 0x7666D4BE580C1e4780B131CfDB4A4e4dD04D977B](https://goerli.etherscan.io/address/0x7666D4BE580C1e4780B131CfDB4A4e4dD04D977B)
